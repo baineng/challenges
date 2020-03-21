@@ -1,0 +1,9 @@
+[submodule "challenges-ops"]
+	path = challenges-ops
+	url = git@github.com:baineng/challenges-ops.git
+[submodule "challenges-shell"]
+	path = challenges-shell
+	url = git@github.com:baineng/challenges-shell.git
+[submodule "challenges-machine-learning"]
+	path = challenges-machine-learning
+	url = git@github.com:baineng/challenges-machine-learning.git
